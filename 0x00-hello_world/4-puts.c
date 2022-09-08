@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main -print the string by the put function
  * Description: using the main function
