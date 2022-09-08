@@ -1,8 +1,7 @@
 #include <stdio.h>
-/**
- * main - return Size
- * 
- * Description: using main
+/*
+ * main return Size 
+ * Description : using main
  * the function print sizes
  * Return: 0 after printing function
  */
