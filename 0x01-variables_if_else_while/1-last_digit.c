@@ -2,8 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-*
-* main - return last digit
+* main - assign a random number to the variable n
 *
 * Description : using main function
 * this function test and return a value
