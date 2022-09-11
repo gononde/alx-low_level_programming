@@ -1,16 +1,16 @@
 #include<stdio.h>
 /**
- * main - reverse lowercase alphabet
+ * main - return reverse lowercase alphabet
  *
  * Description : using main function
  * This function prints "lowercase alphabet reverse"
- * Returno: 0 after print
+ * Returno: 0 after printing
  */
 int main(void)
 {
 	char b;
 
-	for (b ='z' ; b >= 'a' ; b--)
+	for (b = 'z' ; b >= 'a' ; b--)
 	{
 		putchar(b);
 	}
