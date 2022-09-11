@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * main - return size of types 
- * Description : using main function
- * this function "prints the size of various types"
- * Return: 0 after printing function
- */
+* main - return size of types 
+* Description : using main function
+* this function "prints the size of various types"
+* Return: 0 after printing function
+*/
 int main(void)
 {int i;
 char c;
