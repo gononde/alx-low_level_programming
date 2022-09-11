@@ -3,7 +3,7 @@
  * main - return reverse lowercase alphabet
  *
  * Description : using main function
- * This function prints "lowercase alphabet reverse"
+ * this function prints "lowercase alphabet reverse"
  * Returno: 0 after printing
  */
 int main(void)
