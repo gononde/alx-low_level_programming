@@ -1,8 +1,8 @@
 #include <stdio.h>
 /*
- * main return Size 
- * Description : using main
- * the function print sizes
+ * main - return Size 
+ * Description : using main function
+ * thi function "prints the size of various types"
  * Return: 0 after printing function
  */
 int main(void)
