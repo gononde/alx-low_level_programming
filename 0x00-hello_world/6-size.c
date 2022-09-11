@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- * main - return size of types
- * 
+ * main - return size of types 
  * Description : using main function
  * this function "prints the size of various types"
  * Return: 0 after printing function
