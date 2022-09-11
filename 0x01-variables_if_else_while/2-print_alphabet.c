@@ -2,16 +2,19 @@
 /**
 * main - return an alphabet
 * Description : Using main function
-* this function prints the alphabet in lowercase
+* this function "prints the alphabet in lowercase"
 * Return: 0 after printf
 */
 int main(void)
 {
-	char low;
+	char ch;
 
-	for (low = 'a'; low <= 'z'; low++)
+	for (ch = 'a'; ch = 'z'; ch++)
+	{
 
 		putchar(low);
+	}
+		putchar("\n");
 
 		return (0);
 
