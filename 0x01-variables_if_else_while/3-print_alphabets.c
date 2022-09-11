@@ -9,11 +9,11 @@
 int main(void)
 {
 	char ch;
-	for (ch ='a'; ch <= 'z'; ch++) /* Print lowercase */
+	for (ch = 'a'; ch <= 'z'; ch++) /* Print lowercase */
 		{
 			putchar(ch);
 		}
-	for (ch ='A'; ch <='Z'; ch++) /* Uppercase */
+	for (ch = 'A'; ch <= 'Z'; ch++) /* Uppercase */
 	{ 
 		putchar(ch);
 	}
