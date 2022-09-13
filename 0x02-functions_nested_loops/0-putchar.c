@@ -7,7 +7,7 @@
  * this function "prints _putchar"
  * Return: 0 after printing
  */
-int print_putchar(char c)
+int main(char c)
 {
 
 	_putchar('_');
