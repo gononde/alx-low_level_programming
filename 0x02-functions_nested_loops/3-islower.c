@@ -3,7 +3,7 @@
 /**
  * _islower - Checks for lowercase character
  *
- * Description : using _islower function
+ * Description : using _islower(int c) function
  * this function "checks for lowercase character"
  * Return: returns 1 and 0 depend condition
  */
