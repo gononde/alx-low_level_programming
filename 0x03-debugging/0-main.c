@@ -1,17 +1,17 @@
-#include<stdio.h>
 #include "main.h"
 /**
- * main - give correct output
+ * main - give 0 after test
  *
  * Descritpion : using main function
- * this function " gives the correct output when given a case of 0"
- * Return: 0 after printing
+ * this function "Gives 0 when test is correct"
+ * Return: 0 after test
  */
 int main(void)
 {
 	int i;
 
-	i = 0;
+	int i = 0;
+
 	positive_or_negative(i);
 
 	return (0);
