@@ -4,8 +4,11 @@
 #include "main.h"
 
 /**
- * void positive_or_negative
+ * positive_or_negative - return value after test
  * Description : using positive_or_negative function
+ * this function "return 0 when a condition is true"
+ * @i: parameter
+ * Return: 0 after test
  */
 void positive_or_negative(int i)
 {
