@@ -1,6 +1,3 @@
-#include <stdio.h.>
-#include <time.h>
-#include <stdlib.h>
 #include "main.h"
 /**
  * main - give 0 after test
@@ -13,7 +10,7 @@ int main(void)
 {
 	int i;
 
-	int i = 0;
+	i = 0;
 
 	positive_or_negative(i);
 
