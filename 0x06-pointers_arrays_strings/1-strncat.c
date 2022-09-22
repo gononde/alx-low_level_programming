@@ -1,11 +1,12 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * _strcat - concatenates two strings
- * Description : using _strcat
+ * _strncat - concatenates two strings
+ * Description : using _strncat
  * this function "concatenates two strings"
  * @dest: first param
  * @src: second param
+ * @n: third param
  * Return: un pointer dest
  */
 char *_strncat(char *dest, char *src, int n)
